@@ -1,4 +1,4 @@
-# ⌨ NTTDataACM para Dual🖥
+# ⌨ NTTDataACM para Dual 🖥
 
 _Taller Práctico de git/gitHub de NttData_
 
